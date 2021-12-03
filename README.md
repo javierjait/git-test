@@ -1,15 +1,13 @@
-### Wow v2 react native app
+# Wow v2 react native app
 Wow seller app and web.
 
 ## Install dependencies
 
-# npm
+### npm
 `npm install`
 
-# yarn
+### yarn
 `yarn add`
 
-### Available Scripts
-In the project directory, you can run:
-
-## `expo start`
+## Available Scripts
+In the project directory, you can run: `expo start`
